@@ -44,7 +44,6 @@ The project allows users to browse products, search products, add products to a 
 
 ## 📁 Project Structure
 
-## 📁 Project Structure
 
 
 ecommerce-store/
